@@ -1,5 +1,6 @@
 # How to build this software. It was tested on Mint 18.x and 19 versions, but will probably build just the same on the various *ubuntu systems too.
-
+tutorial :
+https://www.debugpoint.com/customize-gnome-clean-look-2022-1/#google_vignette
 ## additional required packages to build:
  build-essential
  git
@@ -16,7 +17,7 @@
 
 ## here is a one-shot installation command for all of the above packages:
 ```
-apt install build-essential git valac libgee-0.8-dev libgtk-3-dev libjson-glib-dev gettext libgettextpo-dev p7zip-full imagemagick
+apt install coreutils build-essential git valac libgee-0.8-dev libgtk-3-dev libjson-glib-dev gettext libgettextpo-dev p7zip-full imagemagick
 ```
 
 
